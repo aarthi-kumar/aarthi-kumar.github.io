@@ -1,15 +1,9 @@
 [
     {
-        "school":"[Rochester Institute of Technology](https://rit.edu)",
-        "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
-        "notes":"Beta Gamma Signma, High Honors",
+        "school":"Bharathidasan University",
+        "degree":"Bachelor of Engineering",
+        "major":"Information Technology",
+        "notes":"",
         "range":""
-    },
-    {
-        "school":"Clinton Community College",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
-        "range":"2004 - 2006"
     }
 ]

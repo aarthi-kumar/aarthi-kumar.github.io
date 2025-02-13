@@ -23,14 +23,14 @@
     "grouping":"Containers & Cloud",
       "skills":[
           {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
+          {"name":"AWS","link":"https://aws.amazon.com"}
       ]
-  }
+  },
   {
     "grouping":"Soft Skills",
       "skills":[
           {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
+          {"name":"AWS","link":"https://aws.amazon.com"}
       ]
   }
 ]
