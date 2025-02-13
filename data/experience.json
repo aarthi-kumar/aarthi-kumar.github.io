@@ -1,12 +1,12 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
-        "range":"February 2016 - Present"
+        "role":"SOFTWARE DEVELOPMENT LEAD",
+        "company":"NTT DATA Services",
+        "summary":"• Developed and implemented Java Spring Batch data exchanges with Tufts, Optum Rx, EmpiRx, CVS and Express Scripts using Spring Batch and Oracle DB. • Developed and implemented Oracle SOA Read and Write batch processes to load and retrieve accumulator data to and from the Oracle Health Insurance system (OHI). • Redesigned the counter data model to align with the enhancements to OHI counter data model and enhanced the DB and Spring batch processes to use the new model.",
+        "range":"July 2018 – June 2024"
     },
     {
-        "role":"Developer",
+        "role":"LEAD SOFTWARE DEVELOPER",
         "company":"Current Company LTD",
         "summary":"Expedited the synergies of collaborative agile tooling.",
         "range":"March 2014 - February 2016"
