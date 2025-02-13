@@ -2,7 +2,7 @@
   {
       "grouping":"TECHNICAL SKILLS",
       "skills":[ "IP Networking",
-                {"name":"Microsoft SQL Server","icon":"msql_server"},
+                {"name":"Microsoft SQL Server"},
                   "DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
   },{
       "grouping":"Languages, Operating Systems & Tools",
