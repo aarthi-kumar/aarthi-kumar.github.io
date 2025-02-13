@@ -15,7 +15,7 @@ lastName = "Kumar"
 phone = "1-925-640-3851"
 showSocializations = true
 showContact = false
-sections = ["skills","experience","education"]
+sections = ["skills","publications","creations","contributions","experience","education","blog"]
 
 
 [params.google]
