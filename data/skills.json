@@ -1,38 +1,43 @@
 [
   {
-      "grouping":"TECHNICAL SKILLS",
-      "skills":[ "IP Networking",
-                {"name":"Microsoft SQL Server"},
-                  "DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+      "grouping":"PROGRAMMING LANGUAGES",
+      "skills":[ {"name":"Java"},
+                 {"name":"Oracle SQL & PL/SQL"}
+                ]
   },{
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","git","subversion","linux","javascript"]
+      "grouping":"FRAMEWORKS",
+      "skills":[ {"name":"Spring Batch"},
+                 {"name":"Oracle SOA"},
+                 {"name":"React"},
+                 {"name":"Next js"},
+                 {"name":"Bootstrap"}]
   },
   {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
-  },
-  {
-      "grouping":"Data Management",
-      "skills":[
-        {"name":"Microsoft SQL Server","icon":"msql_server"},
-        {"name":"Oracle","icon":"database"},
-        "MongoDB",
-        {"name":"Apache Spark"}
-      ]
+      "grouping":"DEVELOPMENT TOOLS",
+      "skills":[ {"name":"Git"},
+                 {"name":"GitHub"},
+                 {"name":"Maven"},
+                 {"name":"Nexus"},
+                 {"name":"Autosys"},
+                 {"name":"Linux Scripting"}]
   },
   {
     "grouping":"Containers & Cloud",
       "skills":[
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"}
+          {"name":"Docker"},
+          {"name":"AWS"}
       ]
   },
   {
     "grouping":"Soft Skills",
       "skills":[
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"}
+          {"name":"Agile Methodology"},
+          {"name":"Estimation & Forecast"},
+          {"name":"Resource Management"},
+          {"name":"Vendor Integration"},
+          {"name":"Cross Team Collaboration"},
+          {"name":"Communication"},
+          {"name":"Tracking & Reporting"}
       ]
   }
 ]
