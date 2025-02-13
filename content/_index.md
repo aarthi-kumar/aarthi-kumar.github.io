@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
+Software Development Lead with 10+ years of experience in delivering and managing end-to-end implementation of technology solutions and data integration in the Healthcare Payer domain. 
